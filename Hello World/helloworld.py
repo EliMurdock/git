@@ -3,8 +3,6 @@ def main():
     print(message.title())
 
 
-
-
 if __name__ == "__main__":
     main()
 
